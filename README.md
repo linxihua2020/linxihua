@@ -1,2 +1,2 @@
-# linxihua
+# circRNA-seq
 circRNA-seq
